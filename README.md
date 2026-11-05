@@ -22,3 +22,18 @@ To write a Python program to demonstrate various string operations such as findi
 14. Initialize another string with extra spaces.
 15. Remove the extra spaces using `strip()` and display the result.
 16. Stop the program.
+
+### Output:
+
+original string: hello python
+length: 12
+upper case HELLO PYTHON
+lowercase hello python
+character index 6: p
+position in python: 6
+slice: python
+replace: hello world
+hello python
+contains python: True
+concatenation: hello pythonprogramming
+trim: hello world
